@@ -7,7 +7,7 @@ This app include features like Sign in, Table record of all your spins, Awesome 
 
 ### How Start the project
 
-This project is now hosted on this url [http://localhost:3000](http://localhost:3000)
+This project is now hosted on this url [https://hopeful-poitras-12d5b9.netlify.app](https://hopeful-poitras-12d5b9.netlify.app)
 Also if you can run in your own PC, this project have two alternative
 
 1- Downland source code, install the modules and finally run `npm start`.
